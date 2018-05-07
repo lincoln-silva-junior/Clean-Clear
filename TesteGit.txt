@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Teste Git 2
-=======
 Teste Git 3
->>>>>>> 513fc9ffd4a61bf4ed092a84c5b55f4bb54600f2
+Teste Git 4
+
