@@ -1,7 +1,5 @@
-
 Teste Git 2
-
 Teste Git 3
-
 Teste Git 4
 Teste Git 5
+Teste Git 7
